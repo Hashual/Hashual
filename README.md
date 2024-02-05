@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hashual
+- 👀 I’m a french student
+- 🌱 I’m currently learning informatics and cryptos chains
+- 📫 How to reach me loizeau.dorian05@gmail.com
+- 😄 Pronouns: He
