@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning informatics and cryptos chains
 - 📫 How to reach me loizeau.dorian05@gmail.com
 - 🗣️ Languages : French, English
-- ⚙️ In process to learn Japanese, Spanish and Turquish
+- ⚙️ In process to learn Japanese and Spanish
 
 #### Programming languages
 ![Python](https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white)
