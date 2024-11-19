@@ -8,7 +8,7 @@
 #### Programming languages
 ![Python](https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust%20a%20logo-grey?style=for-the-badge&logo=Rust)
+![Rust](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=Rust)
 ![HTML](https://img.shields.io/badge/HTML-EA1849?logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0B966A?logo=CSS3&logoColor=white)
 
