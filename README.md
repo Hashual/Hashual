@@ -20,7 +20,7 @@
 ![Expo](https://img.shields.io/badge/Expo-11ba00?style=flat&logo=expo&logocolor=white)
 
 #### Framework
-![React Native](https://img.shields.io/badge/React-Native-blue?logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React-blue-Native-blue?logo=react&logoColor=white)
 
 
 #### Operating systems
