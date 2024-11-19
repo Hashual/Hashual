@@ -17,8 +17,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-0B966A?style=flat&logo=expo&logocolor=white)
-![Figma](https://img.shields.io/badge/Figma-f9d81d?style=flat&logo=figma&logocolor=white)
+![Expo](https://img.shields.io/badge/Expo-0B966A?style=flat&logo=expo&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-f9d81d?style=flat&logo=figma&logoColor=white)
 
 #### Framework
 ![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react&logoColor=white)
