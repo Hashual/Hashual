@@ -5,6 +5,8 @@
 - 🗣️ Languages : French, English
 - ⚙️ In process to learn Japanese and Spanish
 
+## Hard Skills
+
 #### Programming languages
 ![Python](https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=openjdk&logoColor=white)
@@ -28,3 +30,8 @@
 #### Operating systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E98B13?style=flat&logo=linux&logoColor=white)
+
+## Soft Skills
+- Versatil
+- Curious
+- Persevering
