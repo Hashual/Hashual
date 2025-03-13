@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hashual
 - 👀 I’m a french student
 - 🌱 I’m currently learning informatics and cryptos chains
-- 📫 How to reach me loizeau.dorian05@gmail.com
+- 📫 How to reach me loiedor5@gmail.com
 - 🗣️ Languages : French, English
 - ⚙️ In process to learn Japanese and Spanish
 
